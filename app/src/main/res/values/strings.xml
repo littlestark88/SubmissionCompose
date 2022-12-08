@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyProfile</string>
+    <string name="label_tv_popular">Tv Popular</string>
+    <string name="label_favorite">Favorite</string>
+    <string name="label_about">About</string>
+    <string name="label_back">Back</string>
+    <string name="label_star">Star</string>
+    <string name="label_popularity">Popularity</string>
+    <string name="label_search_movie">Search Movie</string>
+    <string name="label_search">Search</string>
+    <string name="label_data_empty">Data Empty</string>
+    <string name="label_photo_profile">Photo Profile</string>
+    <string name="label_name_profile">Rd. Wahyu Dharurisky</string>
+    <string name="label_email_profile">cwahyu6720@gmail.com</string>
+</resources>
